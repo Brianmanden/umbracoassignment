@@ -7,3 +7,22 @@
 5. git add -A
 6. git commit -m"fancyFeature er fancy and done"
 7. git push -u origin fancyFeature
+
+Opgaver:
+  1. Master template - som noget af det første
+  --* Menu
+  --* Logo
+  --* Footer
+  2. Kontakt formular
+  --* inkl. template
+  --* inkl. macro
+  3. Member list
+  4. Gallery  - features projects
+  5. User signup
+  6. Forum
+  7. Search for content plugin()
+  8. 
+  
+
+
+
