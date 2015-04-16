@@ -5,5 +5,5 @@
 3. git checkout fancyFeature
 4. [lave fancyFeature]
 5. git add -A
-6. git commit -m"fancyFeatures er fancy and done"
+6. git commit -m"fancyFeature er fancy and done"
 7. git push -u origin fancyFeature
