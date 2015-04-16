@@ -19,9 +19,12 @@ Opgaver:
   3. Member list
   4. Gallery  - features projects
   5. User signup
+  --* Photo etc.
   6. Forum
-  7. Search for content plugin()
-  8. 
+  7. Search for content (plugin)
+  8. Five newest project
+  9. Five newest articles
+  10. Skrive en fine fine rapport :)
   
 
 
