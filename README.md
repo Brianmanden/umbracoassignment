@@ -8,7 +8,7 @@
 6. git commit -m"fancyFeature er fancy and done"
 7. git push -u origin fancyFeature
 
-Opgaver:
+#Opgaver:
   1. Master template - som noget af det første
   --* Menu
   --* Logo
