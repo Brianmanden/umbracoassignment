@@ -1,9 +1,9 @@
 # umbracoassignment
 
-git clone https://github.com/Brianmanden/umbracoassignment.git
-git branch fancyFeature
-git checkout fancyFeature
-[lave fancyFeature]
-git add -A
-git commit -m"fancyFeatures er fancy and done"
-git push -u origin fancyFeature
+1. git clone https://github.com/Brianmanden/umbracoassignment.git
+2. git branch fancyFeature
+3. git checkout fancyFeature
+4. [lave fancyFeature]
+5. git add -A
+6. git commit -m"fancyFeatures er fancy and done"
+7. git push -u origin fancyFeature
