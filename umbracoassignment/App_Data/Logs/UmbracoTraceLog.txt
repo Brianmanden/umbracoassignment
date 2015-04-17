@@ -121,3 +121,225 @@
 2015-04-16 11:44:44,559 [6] INFO  Umbraco.Core.PluginManager - [Thread 62] Completed resolution of types of Umbraco.Core.PropertyEditors.IParameterEditor, found 44 (took 0ms)
 2015-04-16 11:45:46,519 [6] INFO  Umbraco.Core.PluginManager - [Thread 61] Starting resolution types of umbraco.cms.businesslogic.macro.IMacroEngine
 2015-04-16 11:45:46,532 [6] INFO  Umbraco.Core.PluginManager - [Thread 61] Completed resolution of types of umbraco.cms.businesslogic.macro.IMacroEngine, found 2 (took 13ms)
+2015-04-17 20:34:31,170 [6] INFO  Umbraco.Core.PluginManager - [Thread 1] Determining hash of code files on disk
+2015-04-17 20:34:31,185 [6] INFO  Umbraco.Core.PluginManager - [Thread 1] Hash determined (took 11ms)
+2015-04-17 20:34:31,199 [6] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2015-04-17 20:34:31,621 [6] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 37 (took 420ms)
+2015-04-17 20:34:31,749 [6] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2015-04-17 20:34:31,757 [6] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 8ms)
+2015-04-17 20:34:31,757 [6] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2015-04-17 20:34:31,767 [6] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 16 (took 9ms)
+2015-04-17 20:34:31,798 [6] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2015-04-17 20:34:31,804 [6] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 5ms)
+2015-04-17 20:34:31,804 [6] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2015-04-17 20:34:31,810 [6] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 35 (took 6ms)
+2015-04-17 20:34:31,871 [6] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2015-04-17 20:34:31,876 [6] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 5ms)
+2015-04-17 20:34:31,877 [6] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2015-04-17 20:34:31,882 [6] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 5ms)
+2015-04-17 20:34:32,778 [6] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Initializing Examine and binding to business logic events
+2015-04-17 20:34:32,994 [6] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Adding examine event handlers for index providers: 3
+2015-04-17 20:34:33,303 [6] INFO  Umbraco.Web.UmbracoModule - [Thread 9] Setting OriginalRequestUrl: localhost:51126/umbraco
+2015-04-17 20:34:33,353 [6] INFO  umbraco.content - [Thread 9] Loading content from disk cache...
+2015-04-17 20:34:33,461 [6] INFO  Umbraco.Core.PluginManager - [Thread 9] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2015-04-17 20:34:33,470 [6] INFO  Umbraco.Core.PluginManager - [Thread 9] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 23 (took 8ms)
+2015-04-17 20:34:34,201 [6] INFO  Umbraco.Core.PluginManager - [Thread 9] Starting resolution types of Umbraco.Core.PropertyEditors.IParameterEditor
+2015-04-17 20:34:34,218 [6] INFO  Umbraco.Core.PluginManager - [Thread 9] Completed resolution of types of Umbraco.Core.PropertyEditors.IParameterEditor, found 44 (took 16ms)
+2015-04-17 20:34:45,398 [15] INFO  Umbraco.Core.PluginManager - [Thread 1] Determining hash of code files on disk
+2015-04-17 20:34:45,408 [15] INFO  Umbraco.Core.PluginManager - [Thread 1] Hash determined (took 6ms)
+2015-04-17 20:34:45,418 [15] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2015-04-17 20:34:45,746 [15] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 37 (took 327ms)
+2015-04-17 20:34:45,899 [15] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2015-04-17 20:34:45,909 [15] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 10ms)
+2015-04-17 20:34:45,910 [15] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2015-04-17 20:34:45,916 [15] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 16 (took 6ms)
+2015-04-17 20:34:45,938 [15] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2015-04-17 20:34:45,943 [15] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 5ms)
+2015-04-17 20:34:45,943 [15] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2015-04-17 20:34:45,950 [15] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 35 (took 6ms)
+2015-04-17 20:34:46,001 [15] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2015-04-17 20:34:46,007 [15] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 5ms)
+2015-04-17 20:34:46,007 [15] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2015-04-17 20:34:46,012 [15] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 5ms)
+2015-04-17 20:34:46,770 [15] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Initializing Examine and binding to business logic events
+2015-04-17 20:34:46,899 [15] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Adding examine event handlers for index providers: 3
+2015-04-17 20:34:47,224 [15] INFO  Umbraco.Web.UmbracoModule - [Thread 9] Setting OriginalRequestUrl: localhost:51126/umbraco
+2015-04-17 20:34:47,224 [15] INFO  Umbraco.Web.UmbracoModule - [Thread 14] Setting OriginalRequestUrl: localhost:51126/umbraco
+2015-04-17 20:34:48,845 [15] INFO  Umbraco.Core.PluginManager - [Thread 13] Starting resolution types of Umbraco.Core.PropertyEditors.IParameterEditor
+2015-04-17 20:34:48,859 [15] INFO  Umbraco.Core.PluginManager - [Thread 13] Completed resolution of types of Umbraco.Core.PropertyEditors.IParameterEditor, found 44 (took 13ms)
+2015-04-17 20:34:49,548 [15] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Web.Trees.TreeController
+2015-04-17 20:34:49,554 [15] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 5ms)
+2015-04-17 20:34:49,593 [15] INFO  Umbraco.Core.PluginManager - [Thread 13] Starting resolution types of umbraco.interfaces.ITree
+2015-04-17 20:34:49,602 [15] INFO  Umbraco.Core.PluginManager - [Thread 13] Completed resolution of types of umbraco.interfaces.ITree, found 35 (took 8ms)
+2015-04-17 20:34:49,617 [15] INFO  Umbraco.Core.PluginManager - [Thread 13] Starting resolution types of Umbraco.Web.Trees.TreeController
+2015-04-17 20:34:49,617 [15] INFO  Umbraco.Core.PluginManager - [Thread 13] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 0ms)
+2015-04-17 20:34:49,619 [15] INFO  Umbraco.Core.PluginManager - [Thread 13] Starting resolution types of umbraco.interfaces.ITree
+2015-04-17 20:34:49,625 [15] INFO  Umbraco.Core.PluginManager - [Thread 13] Completed resolution of types of umbraco.interfaces.ITree, found 19 (took 6ms)
+2015-04-17 20:34:49,642 [15] INFO  Umbraco.Core.PluginManager - [Thread 13] Starting resolution types of umbraco.interfaces.IApplication
+2015-04-17 20:34:49,654 [15] INFO  Umbraco.Core.PluginManager - [Thread 13] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 11ms)
+2015-04-17 20:34:50,064 [15] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2015-04-17 20:34:50,074 [15] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 23 (took 9ms)
+2015-04-17 20:35:03,471 [6] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner`1[[Umbraco.Web.Scheduling.ScheduledPublishing, umbraco, Version=1.0.5557.19144, Culture=neutral, PublicKeyToken=null]] - [Thread 12] Application is shutting down immediately
+2015-04-17 20:35:03,471 [6] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner`1[[Umbraco.Web.Scheduling.LogScrubber, umbraco, Version=1.0.5557.19144, Culture=neutral, PublicKeyToken=null]] - [Thread 12] Application is shutting down immediately
+2015-04-17 20:35:03,471 [6] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner`1[[Umbraco.Web.Scheduling.ScheduledTasks, umbraco, Version=1.0.5557.19144, Culture=neutral, PublicKeyToken=null]] - [Thread 12] Application is shutting down immediately
+2015-04-17 20:35:03,473 [6] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 13] Application shutdown. Reason: CodeDirChangeOrDirectoryRename
+2015-04-17 20:35:22,641 [15] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of umbraco.interfaces.ICacheRefresher
+2015-04-17 20:35:22,656 [15] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of umbraco.interfaces.ICacheRefresher, found 20 (took 14ms)
+2015-04-17 20:35:22,710 [15] INFO  umbraco.content - [Thread 14] Loading content from database...
+2015-04-17 20:35:34,058 [15] INFO  umbraco.content - [Thread 14] Loading content from database...
+2015-04-17 20:35:48,614 [15] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2015-02-16 20:35:48
+2015-04-17 20:37:59,357 [15] INFO  umbraco.content - [Thread 20] Loading content from database...
+2015-04-17 20:38:08,273 [15] INFO  umbraco.content - [Thread 21] Loading content from database...
+2015-04-17 20:38:16,919 [15] INFO  umbraco.content - [Thread 7] Loading content from database...
+2015-04-17 20:38:24,717 [15] INFO  umbraco.content - [Thread 20] Loading content from database...
+2015-04-17 20:38:32,296 [15] INFO  umbraco.content - [Thread 21] Loading content from database...
+2015-04-17 20:41:08,193 [15] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 17] Content 'Article #02' with Id '1082' has been unpublished.
+2015-04-17 20:41:08,671 [15] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 17] Content 'Article #01' with Id '1081' has been unpublished.
+2015-04-17 20:41:08,857 [15] INFO  umbraco.content - [Thread 17] Loading content from database...
+2015-04-17 20:41:13,423 [15] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 19] Content 'All the articles' with Id '1074' has been unpublished.
+2015-04-17 20:41:13,550 [15] INFO  umbraco.content - [Thread 19] Loading content from database...
+2015-04-17 20:47:33,560 [15] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 26] Content 'Contact' with Id '1099' has been unpublished.
+2015-04-17 20:47:33,750 [15] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 26] Content 'Members' with Id '1098' has been unpublished.
+2015-04-17 20:47:33,891 [15] INFO  umbraco.content - [Thread 26] Loading content from database...
+2015-04-17 20:47:37,878 [15] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 33] Content 'Project #02' with Id '1085' has been unpublished.
+2015-04-17 20:47:38,030 [15] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 33] Content 'Project #01' with Id '1083' has been unpublished.
+2015-04-17 20:47:38,167 [15] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 33] Content 'All the projects' with Id '1076' has been unpublished.
+2015-04-17 20:47:38,326 [15] INFO  umbraco.content - [Thread 33] Loading content from database...
+2015-04-17 20:47:42,526 [15] INFO  umbraco.content - [Thread 23] Loading content from database...
+2015-04-17 20:47:46,789 [15] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 8] Content 'Home Page' with Id '1073' has been unpublished.
+2015-04-17 20:47:47,044 [15] INFO  umbraco.content - [Thread 8] Loading content from database...
+2015-04-17 20:47:51,218 [15] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 46] Content 'Developer Coop Site' with Id '1064' has been unpublished.
+2015-04-17 20:47:51,354 [15] INFO  umbraco.content - [Thread 46] Loading content from database...
+2015-04-17 20:48:40,573 [15] INFO  umbraco.content - [Thread 8] Loading content from database...
+2015-04-17 20:50:22,516 [15] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 28] Content 'PHP' with Id '1090' has been unpublished.
+2015-04-17 20:50:22,702 [15] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 28] Content 'JS' with Id '1089' has been unpublished.
+2015-04-17 20:50:22,871 [15] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 28] Content 'HTML' with Id '1093' has been unpublished.
+2015-04-17 20:50:23,026 [15] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 28] Content 'XSLT' with Id '1095' has been unpublished.
+2015-04-17 20:50:23,187 [15] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 28] Content 'XML' with Id '1094' has been unpublished.
+2015-04-17 20:50:23,351 [15] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 28] Content 'CSS' with Id '1091' has been unpublished.
+2015-04-17 20:50:23,470 [15] INFO  umbraco.content - [Thread 28] Loading content from database...
+2015-04-17 20:51:01,038 [15] INFO  Umbraco.Core.PluginManager - [Thread 11] Starting resolution types of Umbraco.Web.Trees.TreeController
+2015-04-17 20:51:01,038 [15] INFO  Umbraco.Core.PluginManager - [Thread 11] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 0ms)
+2015-04-17 20:51:33,283 [15] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 45] Content 'Home Page' with Id '0' has been published.
+2015-04-17 20:51:51,540 [15] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 47] Content 'All the Articles' with Id '0' has been published.
+2015-04-17 20:52:32,793 [15] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 46] Content 'About' with Id '0' has been published.
+2015-04-17 20:52:47,280 [15] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 46] Content 'Contact' with Id '0' has been published.
+2015-04-17 20:54:23,815 [15] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 46] Content 'Article #01' with Id '0' has been published.
+2015-04-17 20:54:56,016 [15] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 38] Content 'Article #02' with Id '0' has been published.
+2015-04-17 20:55:31,131 [15] INFO  Umbraco.Core.Services.ContentService - [Thread 38] Content 'Project #01' with Id '0' could not be published because its parent is not published.
+2015-04-17 20:55:38,105 [15] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 16] Content 'All the Projects' with Id '1110' has been published.
+2015-04-17 20:56:31,965 [15] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 46] Content 'JS' with Id '0' has been published.
+2015-04-17 20:57:18,771 [15] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 32] Content 'PSD' with Id '0' has been published.
+2015-04-17 20:57:23,768 [15] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 29] Content 'PSD' with Id '1118' has been published.
+2015-04-17 20:57:27,190 [15] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 32] Content 'CSS' with Id '1116' has been published.
+2015-04-17 20:57:38,897 [15] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 6] Content 'Project #01' with Id '1115' has been published.
+2015-04-17 20:59:47,135 [15] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 30] Content 'Project #02' with Id '0' has been published.
+2015-04-17 21:00:42,991 [15] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 34] Content 'Project #01' with Id '1115' has been published.
+2015-04-17 21:02:04,795 [15] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 27] Content 'Home Page' with Id '1108' has been published.
+2015-04-17 21:02:04,959 [15] ERROR umbraco.presentation.webservices.nodeSorter - [Thread 27] Could not update content sort order
+System.NotSupportedException: Specified method is not supported.
+   ved Umbraco.Core.Services.NotificationService.SendNotifications(IUser operatingUser, IUmbracoEntity entity, String action, String actionName, HttpContextBase http, Func`3 createSubject, Func`3 createBody)
+   ved Umbraco.Web.NotificationServiceExtensions.SendNotification(INotificationService service, IUser sender, IUmbracoEntity entity, IAction action, UmbracoContext umbracoContext, ApplicationContext applicationContext)
+   ved Umbraco.Web.NotificationServiceExtensions.SendNotification(INotificationService service, IUmbracoEntity entity, IAction action, UmbracoContext umbracoContext, ApplicationContext applicationContext)
+   ved umbraco.presentation.webservices.nodeSorter.SortContent(String[] ids, Int32 parentId)
+2015-04-17 21:07:48,812 [15] INFO  Umbraco.Core.PluginManager - [Thread 30] Starting resolution types of Umbraco.Web.Trees.TreeController
+2015-04-17 21:07:48,812 [15] INFO  Umbraco.Core.PluginManager - [Thread 30] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 0ms)
+2015-04-17 21:07:56,204 [15] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 49] Content 'Home Page' with Id '1108' has been published.
+2015-04-17 21:07:59,449 [15] ERROR Umbraco.Core.UmbracoApplicationBase - [Thread 37] An unhandled exception occurred
+System.ArgumentNullException: Value cannot be null.
+Parameternavn: child
+   ved System.Web.UI.ControlCollection.Add(Control child)
+   ved Umbraco.Web.UmbracoHelper.RenderMacro(macro m, IDictionary`2 parameters, page umbracoPage)
+   ved Umbraco.Web.UmbracoHelper.RenderMacro(String alias, IDictionary`2 parameters, page umbracoPage)
+   ved Umbraco.Web.UmbracoHelper.RenderMacro(String alias, IDictionary`2 parameters)
+   ved Umbraco.Web.UmbracoHelper.RenderMacro(String alias, Object parameters)
+   ved Umbraco.Web.UmbracoHelper.RenderMacro(String alias)
+   ved ASP._Page_Views_HomePage_cshtml.Execute() i c:\Users\Kenn\Documents\Visual Studio 2013\Projects\umbracoassignment\umbracoassignment\Views\HomePage.cshtml:linje 6
+   ved System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   ved System.Web.Mvc.WebViewPage.ExecutePageHierarchy()
+   ved System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   ved System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   ved System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   ved Umbraco.Core.Profiling.ProfilingView.Render(ViewContext viewContext, TextWriter writer)
+   ved System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   ved System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   ved System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<InvokeActionResultWithFilters>b__17()
+   ved System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilter(IResultFilter filter, ResultExecutingContext preContext, Func`1 continuation)
+   ved System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<>c__DisplayClass1c.<InvokeActionResultWithFilters>b__19()
+   ved System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilter(IResultFilter filter, ResultExecutingContext preContext, Func`1 continuation)
+   ved System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<>c__DisplayClass1c.<InvokeActionResultWithFilters>b__19()
+   ved System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   ved System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   ved System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+   ved System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   ved System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeAction(IAsyncResult asyncResult)
+   ved System.Web.Mvc.Controller.<>c__DisplayClass1d.<BeginExecuteCore>b__18(IAsyncResult asyncResult)
+   ved System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   ved System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   ved System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   ved System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   ved System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   ved System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   ved System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   ved System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__3(IAsyncResult asyncResult)
+   ved System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   ved System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   ved System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   ved System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   ved System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   ved System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2015-04-17 21:11:05,273 [15] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 18] Content 'About' with Id '1111' has been published.
+2015-04-17 21:14:02,900 [15] ERROR Umbraco.Core.UmbracoApplicationBase - [Thread 35] An unhandled exception occurred
+System.ArgumentNullException: Value cannot be null.
+Parameternavn: child
+   ved System.Web.UI.ControlCollection.Add(Control child)
+   ved Umbraco.Web.UmbracoHelper.RenderMacro(macro m, IDictionary`2 parameters, page umbracoPage)
+   ved Umbraco.Web.UmbracoHelper.RenderMacro(String alias, IDictionary`2 parameters, page umbracoPage)
+   ved Umbraco.Web.UmbracoHelper.RenderMacro(String alias, IDictionary`2 parameters)
+   ved Umbraco.Web.UmbracoHelper.RenderMacro(String alias, Object parameters)
+   ved Umbraco.Web.UmbracoHelper.RenderMacro(String alias)
+   ved ASP._Page_Views_HomePage_cshtml.Execute() i c:\Users\Kenn\Documents\Visual Studio 2013\Projects\umbracoassignment\umbracoassignment\Views\HomePage.cshtml:linje 37
+   ved System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   ved System.Web.Mvc.WebViewPage.ExecutePageHierarchy()
+   ved System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   ved System.Web.WebPages.WebPageBase.<>c__DisplayClass7.<RenderPageCore>b__6(TextWriter writer)
+   ved System.Web.WebPages.HelperResult.WriteTo(TextWriter writer)
+   ved System.Web.WebPages.WebPageBase.Write(HelperResult result)
+   ved System.Web.WebPages.WebPageBase.RenderSurrounding(String partialViewName, Action`1 body)
+   ved System.Web.WebPages.WebPageBase.PopContext()
+   ved System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   ved System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   ved System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   ved Umbraco.Core.Profiling.ProfilingView.Render(ViewContext viewContext, TextWriter writer)
+   ved System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   ved System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   ved System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<InvokeActionResultWithFilters>b__17()
+   ved System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilter(IResultFilter filter, ResultExecutingContext preContext, Func`1 continuation)
+   ved System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<>c__DisplayClass1c.<InvokeActionResultWithFilters>b__19()
+   ved System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilter(IResultFilter filter, ResultExecutingContext preContext, Func`1 continuation)
+   ved System.Web.Mvc.ControllerActionInvoker.<>c__DisplayClass1a.<>c__DisplayClass1c.<InvokeActionResultWithFilters>b__19()
+   ved System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   ved System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   ved System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+   ved System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   ved System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeAction(IAsyncResult asyncResult)
+   ved System.Web.Mvc.Controller.<>c__DisplayClass1d.<BeginExecuteCore>b__18(IAsyncResult asyncResult)
+   ved System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   ved System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   ved System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   ved System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   ved System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   ved System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   ved System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   ved System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__3(IAsyncResult asyncResult)
+   ved System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   ved System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   ved System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   ved System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   ved System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   ved System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2015-04-17 21:18:32,736 [15] INFO  Umbraco.Core.PluginManager - [Thread 20] Starting resolution types of Umbraco.Core.PropertyEditors.IParameterEditor
+2015-04-17 21:18:32,736 [15] INFO  Umbraco.Core.PluginManager - [Thread 20] Completed resolution of types of Umbraco.Core.PropertyEditors.IParameterEditor, found 44 (took 0ms)
+2015-04-17 21:20:15,147 [15] INFO  Umbraco.Core.PluginManager - [Thread 9] Starting resolution types of umbraco.cms.businesslogic.macro.IMacroEngine
+2015-04-17 21:20:15,157 [15] INFO  Umbraco.Core.PluginManager - [Thread 9] Completed resolution of types of umbraco.cms.businesslogic.macro.IMacroEngine, found 2 (took 9ms)
+2015-04-17 21:21:16,132 [15] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 9] Content 'Contact' with Id '1112' has been published.

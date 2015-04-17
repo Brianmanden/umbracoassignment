@@ -1,4 +1,6 @@
 ﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
 @{
-    Layout = null;
+    Layout = "HomePage.cshtml";
 }
+@Umbraco.Field("headline", insertBefore: "&lt;h1&gt;", insertAfter: "&lt;/h1&gt;")
+@Umbraco.Field("content")
