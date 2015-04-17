@@ -10,7 +10,7 @@
 
 #Opgaver:
   1. Master template - som noget af det første
-  --* Menu
+  * Menu
   --* Logo
   --* Footer
   2. Kontakt formular
