@@ -15,7 +15,7 @@
   --* Footer
   2. [Brian]Kontakt formular
   --* inkl. template
-  --* inkl. macro
+  --* inkl. macro ✓
   3. Member list
   4. Gallery  - features projects
   5. User signup
