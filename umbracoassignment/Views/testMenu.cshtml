@@ -1,0 +1,44 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+    Layout = "SiteLayout.cshtml";
+}
+
+<nav class="navbar navbar-default">
+    <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+
+            @foreach (var page in CurrentPage.Site().Children.Where("Visible"))
+            {
+            <li>
+                @if(page.Children.Where("Visible").Count() > 0)
+                {
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">@page.Name<span class="caret"></span></a>
+                    <ul class="dropdown-menu" role="menu">
+                        @foreach (var subpage in page.Children.Where("Visible"))
+                        {
+                        <li>
+                            <a href="@subpage.Url">@subpage.Name</a>
+                        </li>
+                        }
+                    </ul>
+                </li>
+                }else{
+                    <a href="@page.Url">@page.Name</a>
+                }
+            </li>
+            }
+        </div>
+    </div>
+</nav>
