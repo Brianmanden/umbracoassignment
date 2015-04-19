@@ -20,7 +20,7 @@
   4. Gallery  - features projects
   5. User signup
   --* Photo etc.
-  6. Forum
+  6. [Michael] Forum + Login side for members
   7. Search for content (plugin)
   8. Five newest project
   9. Five newest articles
