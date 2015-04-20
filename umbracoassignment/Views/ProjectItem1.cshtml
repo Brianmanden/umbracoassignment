@@ -2,12 +2,11 @@
 @{
     Layout = "SiteLayout.cshtml";
 }
-
 <div class="row">
 	<div class="col-md-2"></div>
 	<div class="col-md-8">
-		@Umbraco.Field("headline", insertBefore: "&lt;h1&gt;", insertAfter: "&lt;/h1&gt;")
-		@Umbraco.Field("content", insertBefore: "&lt;p&gt;", insertAfter: "&lt;/p&gt;")
+		@Umbraco.Field("projectName", insertBefore: "&lt;h1&gt;", insertAfter: "&lt;/h1&gt;")
+		@Umbraco.Field("projectDescription", insertBefore: "&lt;p&gt;", insertAfter: "&lt;/p&gt;")
 	</div>
 	<div class="col-md-2"></div>
 </div>
