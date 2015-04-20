@@ -8,6 +8,9 @@
 6. git commit -m"fancyFeature er fancy and done"
 7. git push -u origin fancyFeature
 
+# lægge indhold i content uden om .gitignore
+git add --force ./App_Data/Umbraco.sdf
+
 #Opgaver:
   1. Master template - som noget af det første
   * Menu
