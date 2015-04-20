@@ -278,3 +278,4 @@ System.Web.HttpUnhandledException (0x80004005): Der blev udløst en undtagelse a
 2015-04-20 12:01:34,944 [7] INFO  Umbraco.Core.PluginManager - [Thread 10] Starting resolution types of umbraco.interfaces.ICacheRefresher
 2015-04-20 12:01:34,964 [7] INFO  Umbraco.Core.PluginManager - [Thread 10] Completed resolution of types of umbraco.interfaces.ICacheRefresher, found 20 (took 18ms)
 2015-04-20 12:02:14,908 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-02-19 12:02:14
+2015-04-20 12:20:52,595 [7] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 49] Content 'Forbidden Acces' with Id '1132' has been published.
