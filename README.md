@@ -26,7 +26,7 @@ git add --force ./App_Data/Umbraco.sdf
   6. [Michael] Forum + Login side for members ✓
   7. Search for content (plugin)
   8. [Michael]Five newest project
-  9. Five newest articles
+  9. [Michael]Five newest articles
   10. Skrive en fine fine rapport :)
   
 
