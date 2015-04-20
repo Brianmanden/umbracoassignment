@@ -5,3 +5,9 @@
 
 @Umbraco.Field("headline", insertBefore: "&lt;h1&gt;", insertAfter: "&lt;/h1&gt;")
 @Umbraco.Field("content", insertBefore: "&lt;p&gt;", insertAfter: "&lt;/p&gt;")
+
+<p>The newest projects</p>	
+@Umbraco.RenderMacro("newestProjects")
+	
+<p>The newest articles</p>	
+@Umbraco.RenderMacro("newestArticles")
