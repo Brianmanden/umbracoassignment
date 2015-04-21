@@ -1,0 +1,37 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@using umbraco.cms.businesslogic.member
+@using System.Web
+@using System.Web.Security
+@{
+    Layout = "SiteLayout.cshtml";
+}
+<h2>Member List</h2>
+@{
+  var memberService = ApplicationContext.Current.Services.MemberService;
+  var members = memberService.GetMembersByGroup("Active");
+  var currentUser = umbraco.cms.businesslogic.member.Member.GetCurrentMember();
+  var memberId = HttpContext.Current.Request.QueryString["id"];
+ 
+}
+
+@if (memberId != null ){
+      var member = Umbraco.TypedMember(memberId);
+  
+      <h1>@member.Name profile page</h1>
+
+      <p>First name: @member.GetProperty("firstName").Value</p>
+	  <p>Last name: @member.GetProperty("lastName").Value</p> 
+	  <p>Zip code: @member.GetProperty("zip").Value</p>
+	  <p>email: @member.GetProperty("email").Value</p>
+      }
+  
+
+else {
+
+  foreach(var member in members) {
+      <p>Brugernavn: <a href="?id=@member.Id" >@(member.GetValue("username"))</a> <br/><br> 
+      Comment: <br><span style="margin-left: 50px;">@(member.GetValue("umbracoMemberComments"))</span>
+      </p><br>
+ 
+  }
+}

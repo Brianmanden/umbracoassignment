@@ -1,0 +1,9 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+    Layout = "SiteLayout.cshtml";
+}
+@{
+var currentUser = umbraco.cms.businesslogic.member.GetCurrentMember();
+}
+
+@currentUser
