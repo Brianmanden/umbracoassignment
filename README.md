@@ -11,6 +11,19 @@
 # lægge indhold i content uden om .gitignore
 git add --force ./App_Data/Umbraco.sdf
 
+#skrive rapport
+Hvem tager hvad ?
+Jacob
+Michael
+Brian
+
+- the structure of the websites (sitemap, wireframes) [Jacob]
+- list with functions supported by system [Michael]
+- an overview of user defined content types [Brian]
+- theme/template documentation [Brian]
+- extensions used [Michael]
+- evaluation of the product [Jacob]
+
 #Opgaver:
   1. Master template - som noget af det første
   * Menu
