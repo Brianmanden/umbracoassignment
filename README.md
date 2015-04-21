@@ -13,9 +13,6 @@ git add --force ./App_Data/Umbraco.sdf
 
 #skrive rapport
 Hvem tager hvad ?
-Jacob
-Michael
-Brian
 
 - the structure of the websites (sitemap, wireframes) [Jacob]
 - list with functions supported by system [Michael]
