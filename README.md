@@ -38,7 +38,3 @@ Hvem tager hvad ?
   8. [Michael]Five newest project ✓
   9. [Michael]Five newest articles ✓
   10. Skrive en fine fine rapport :)
-  
-
-
-
