@@ -38,8 +38,8 @@
     <add type="umbraco.BusinessLogic.ApplicationTreeRegistrar, businesslogic, Version=1.0.5557.19141, Culture=neutral, PublicKeyToken=null" />
     <add type="Umbraco.Core.Strategies.RelateOnCopyHandler, Umbraco.Core, Version=1.0.5557.19139, Culture=neutral, PublicKeyToken=null" />
     <add type="umbraco.providers.members.MembershipEventHandler, umbraco.providers, Version=1.0.5557.19143, Culture=neutral, PublicKeyToken=null" />
-    <add type="ForumNotificationMgr, App_Code.t5dw4qsf, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" />
-    <add type="Jumoo.Simpily.SimpilyForumCacheHandler, App_Code.t5dw4qsf, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" />
+    <add type="ForumNotificationMgr, App_Code.ehlvwdvn, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" />
+    <add type="Jumoo.Simpily.SimpilyForumCacheHandler, App_Code.ehlvwdvn, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" />
   </baseType>
   <baseType type="Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter" resolutionType="FindAllTypes" />
   <baseType type="Umbraco.Core.PropertyEditors.IPropertyValueConverter" resolutionType="FindAllTypes">
@@ -61,7 +61,7 @@
     <add type="Umbraco.Core.PropertyEditors.ValueConverters.YesNoValueConverter, Umbraco.Core, Version=1.0.5557.19139, Culture=neutral, PublicKeyToken=null" />
   </baseType>
   <baseType type="Umbraco.Web.Mvc.SurfaceController" resolutionType="FindAllTypes">
-    <add type="Jumoo.Simpily.SimpilyForumsController, App_Code.t5dw4qsf, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" />
+    <add type="Jumoo.Simpily.SimpilyForumsController, App_Code.ehlvwdvn, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" />
     <add type="Umbraco.Web.Controllers.UmbProfileController, umbraco, Version=1.0.5557.19144, Culture=neutral, PublicKeyToken=null" />
     <add type="Umbraco.Web.Controllers.UmbLoginStatusController, umbraco, Version=1.0.5557.19144, Culture=neutral, PublicKeyToken=null" />
     <add type="Umbraco.Web.Controllers.UmbRegisterController, umbraco, Version=1.0.5557.19144, Culture=neutral, PublicKeyToken=null" />
@@ -69,7 +69,7 @@
     <add type="umbracoassignment.Controllers.ContactFormSurfaceController, umbracoassignment, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
   </baseType>
   <baseType type="Umbraco.Web.WebApi.UmbracoApiController" resolutionType="FindAllTypes">
-    <add type="Jumoo.Simpily.SimpilyForumsApiController, App_Code.t5dw4qsf, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" />
+    <add type="Jumoo.Simpily.SimpilyForumsApiController, App_Code.ehlvwdvn, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" />
     <add type="Umbraco.Web.Editors.AuthenticationController, umbraco, Version=1.0.5557.19144, Culture=neutral, PublicKeyToken=null" />
     <add type="Umbraco.Web.Editors.ContentController, umbraco, Version=1.0.5557.19144, Culture=neutral, PublicKeyToken=null" />
     <add type="Umbraco.Web.Editors.DashboardController, umbraco, Version=1.0.5557.19144, Culture=neutral, PublicKeyToken=null" />
