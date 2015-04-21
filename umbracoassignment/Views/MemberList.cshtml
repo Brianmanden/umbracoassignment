@@ -5,6 +5,7 @@
 @{
     Layout = "SiteLayout.cshtml";
 }
+<<<<<<< HEAD
 
 <div class="row">
 	<div class="col-md-2"></div>
@@ -17,11 +18,20 @@
 
 @{
   var memberService = ApplicationContext.Current.Services.MemberService;
+=======
+<h2>Member List</h2>
+@{
+  var memberService = ApplicationContext.Current.Services.MemberService;
+@*
+  var members = memberService.GetMembersByGroup("ForumAcces");
+*@
+>>>>>>> dca9b88f06429be6d6f549a4f7ded08441b14db8
   var members = memberService.GetAllMembers();
   var currentUser = umbraco.cms.businesslogic.member.Member.GetCurrentMember();
   var memberId = HttpContext.Current.Request.QueryString["id"];
  
 }
+<<<<<<< HEAD
 
 <div class="row">
 	<div class="col-md-4"></div>
@@ -67,3 +77,27 @@
 	</div>
 	<div class="col-md-2"></div>
 </div>
+=======
+ 
+@if (memberId != null ){
+      var member = Umbraco.TypedMember(memberId);
+ 
+      <h1>@member.Name profile page</h1>
+ 
+      <p>First name: @member.GetProperty("firstName").Value</p>
+          <p>Last name: @member.GetProperty("lastName").Value</p>
+          <p>Zip code: @member.GetProperty("zip").Value</p>
+          <p>email: @member.GetProperty("email").Value</p>
+			  
+		<a href="/member-list/"><button class="btn">Back to member list</button></a>
+      }
+ 
+ 
+else {
+ 
+  foreach(var member in members) {
+      <p>Member name: <a href="?id=@member.Id" >@(member.GetValue("username"))</a> <br/><br>
+      </p>
+  }
+}
+>>>>>>> dca9b88f06429be6d6f549a4f7ded08441b14db8
