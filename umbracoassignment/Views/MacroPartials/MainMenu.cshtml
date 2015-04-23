@@ -13,6 +13,9 @@
         </div>
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 			<ul class="nav navbar-nav">
+				<li>
+					<a href="/">Home</a>
+				</li>
 				@foreach (var page in CurrentPage.Site().Children.Where("Visible")){
 					if(page.Children.Where("Visible").Count() > 0){
 						<li class="dropdown">
